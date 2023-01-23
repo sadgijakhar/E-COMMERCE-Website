@@ -11,14 +11,14 @@ if(isset($_POST['insert_product'])){
     $product_status = 'true';
 
     // accessing image
-    $product_image1 = $_FILES['product_image1']['name'];
-    $product_image2 = $_FILES['product_image2']['name'];
-    $product_image3 = $_FILES['product_image3']['name'];
+    $product_image1 =$_FILES['product_image1']['name'];
+    $product_image2 =$_FILES['product_image2']['name'];
+    $product_image3 =$_FILES['product_image3']['name'];
 
     // accessing image temp name
-    $temp_image1 = $_FILES['product_image1']['tmp_name'];
-    $temp_image2 = $_FILES['product_image2']['tmp_name'];
-    $temp_image3 = $_FILES['product_image3']['tmp_name'];
+    $temp_image1 =$_FILES['product_image1']['tmp_name'];
+    $temp_image2 =$_FILES['product_image2']['tmp_name'];
+    $temp_image3 =$_FILES['product_image3']['tmp_name'];
 
     // checming empty condition
 

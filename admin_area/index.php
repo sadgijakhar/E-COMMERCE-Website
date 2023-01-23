@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-mid-12 bg-secondary p-1 d-flex align-items-center">
                 <div class="p-3 m-3">
-                    <a href="#"><img src="../images/Tomato.jpeg" alt ="" class="admin-image"></a>
+                    <a href="#"><img src="../images/admin.jpeg" alt ="" class="admin-image"></a>
                     <p class="text-light text-center">Admin-Name</p>
                 </div>
                 <div class="button text-center p-4">
